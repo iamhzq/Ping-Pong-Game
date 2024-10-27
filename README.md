@@ -24,7 +24,7 @@ In this Pong game, two players control paddles to keep the ball in play. The gam
 
 # Installation
    - Clone the repository:
-     git clone https://github.com/iamhzq/pong-game.git
+     git clone https://github.com/iamhzq/Ping-Pong-Game.git
 
   - Install the reuqired packages:  
       pip install PythonTurtle
