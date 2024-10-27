@@ -4,22 +4,22 @@ A classic Pong game built in Python using the Turtle graphics library. This proj
 # Game Overview
 In this Pong game, two players control paddles to keep the ball in play. The game includes:
 
-  a. Collision Detection with walls and paddles
-  b. Scorekeeping for each missed ball
-  c. Dynamic Difficulty as the ball speed increases with each successful paddle hit
+    - Collision Detection with walls and paddles
+    - Scorekeeping for each missed ball
+    - Dynamic Difficulty as the ball speed increases with each successful paddle hit
 
 # Features
 
-  a. Simple 2-player game with W and S keys for Player 1 and Up and Down arrow keys for Player 2.
-  b. Realistic collision physics with walls and paddles.
-  c. Score tracking for each player.
-  d. Speed gradually increases, adding to the challenge.
+    - Simple 2-player game with W and S keys for Player 1 and Up and Down arrow keys for Player 2.
+    - Realistic collision physics with walls and paddles.
+    - Score tracking for each player.
+    - Speed gradually increases, adding to the challenge.
 
 # Files
-  a. main.py: Main game loop.
-  b. paddle.py: Manages paddle creation and movement.
-  c. wall.py: Sets up boundary walls.
-  d. score.py: Updates and displays the score.
+    - main.py: Main game loop.
+    - paddle.py: Manages paddle creation and movement.
+    - wall.py: Sets up boundary walls.
+    - score.py: Updates and displays the score.
 
 
 # Installation
